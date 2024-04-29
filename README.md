@@ -1,2 +1,4 @@
 # alpha-financial-plan.github.io
-GitHub Page for arufa-kikaku
+GitHub Page for alpha-kikaku
+
+test page
